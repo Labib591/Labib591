@@ -2,7 +2,7 @@
 ![Header](https://github.com/Labib591/Labib591/blob/main/2new%20linkedin%20labib.png?raw=true "Header")
 # Hello, folks! 
 
-My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Bangladesh, living in New Jersey,USA
+My name is **Mahir Mohammed Labib** and I'm a **frontend developer**. I'm from Bangladesh, living in New Jersey,USA. I love to play and watch cricket in my free time.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react&logoColor=white&color=000000)
