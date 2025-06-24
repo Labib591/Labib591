@@ -10,6 +10,7 @@ My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Banglades
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 
 
 
