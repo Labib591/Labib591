@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://github.com/Labib591/Labib591/blob/main/2new%20linkedin%20labib.png?raw=true "Header")]
+[Header](https://github.com/Labib591/Labib591/blob/main/2new%20linkedin%20labib.png?raw=true "Header")
 # Hello, folks! 
 
 My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Bangladesh, living in New Jersey,USA. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
