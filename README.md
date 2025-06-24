@@ -5,12 +5,15 @@
 My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Bangladesh, living in New Jersey,USA. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react&logoColor=white&color=000000)
+![](https://img.shields.io/badge/NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=000000)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=000000)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=000000)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=000000)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=000000)
 
 
 
