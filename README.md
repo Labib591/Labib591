@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://github.com/Labib591/Labib591/blob/main/2new%20linkedin%20labib.png?raw=true "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/Labib591/Labib591/blob/main/2new%20linkedin%20labib.png?raw=true "Header")]
 # Hello, folks! 
 
 My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Bangladesh, living in New Jersey,USA. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
@@ -19,18 +19,6 @@ My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Banglades
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
