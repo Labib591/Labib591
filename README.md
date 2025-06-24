@@ -26,26 +26,13 @@ My name is Mahir Mohammed Labib and I'm a frontend developer. I'm from Banglades
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Labib591&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Labib591's GitHub Stats" />
 </a>
    
-
-<!-- links to social media icons -->
-
-<!-- icons with padding http://i.imgur.com/tXSoThF.png -->
-
-[1.1]:  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>(twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding http://i.imgur.com/wWzX9uB.png -->
-
-[1.2]: https://img.shields.io/badge/ReactJs-informational?style=flat&logo=x&logoColor=white&color=000000(twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<p><a href="https://github.com/Labib591" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://x.com/Labib_591" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/mahir-mohammed-labib-bb3085209/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ 
+</p>
 
 
-<!-- links to your social media accounts -->
-
-[1]: https://x.com/Labib_591
-[2]: https://github.com/Labib591
-[3]: https://www.linkedin.com/in/mahir-mohammed-labib-bb3085209/
 
 
 <!-- Resources -->
